@@ -10,6 +10,8 @@
     await page.locator("//span[text()='Continue']//ancestor::div//span//input[@type='email']").fill('8109186482');
     await page.locator("//input[@type='email']//following::span[1]").click();
     //await page.locator("//div[text()='Enter your mobile number or email']//following::span[2]").click();
+
+        //Test
     
 
 
